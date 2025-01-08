@@ -6,7 +6,8 @@ o Design and implement a comprehensive flight management system for various airl
 o Apply object-oriented programming principles and manipulate collections of objects. 
 o Develop functionalities for reading and writing flight data to text files. 
 o Use serialization to facilitate data storage and retrieval. 
-o Integrate search algorithms to locate flights. o Dynamically manage bookings and flight modifications. 
+o Integrate search algorithms to locate flights. 
+o Dynamically manage bookings and flight modifications. 
 o Use inheritance, interface implementation, and generic containers for code scalability.
 
 
