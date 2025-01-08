@@ -24,9 +24,15 @@ o Use inheritance, interface implementation, and generic containers for code sca
 ## TECHNOLOGIES UTILISÉES: C#, Sérialisation JSON.
 ## DESCRIPTION DES TACHES :		 
 o	Concevoir et implémenter un système complet de gestion de vols pour diverses compagnies aériennes.
-o	Appliquer les principes de la programmation orientée objet et manipuler des collections d’objets. 
+
+o	Appliquer les principes de la programmation orientée objet et manipuler des collections d’objets.
+
 o	Développer des fonctionnalités de lecture et d'écriture de données de vols dans des fichiers texte.
+
 o	Utiliser la sérialisation pour faciliter le stockage et la récupération de données.
+
 o	Intégrer des algorithmes de recherche pour localiser des vols.
+
 o	Gérer dynamiquement les réservations et les modifications de vol. 
+
 o	Utiliser l'héritage, l'implémentation d'interfaces, des conteneurs génériques pour l'évolutivité du code.
